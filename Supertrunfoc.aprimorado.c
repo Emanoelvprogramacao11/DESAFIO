@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    printf("------SUPER TRUNFO C------");
+    
     char letra[50];
     char codigo[50];
     char cidade[50];
